@@ -1,2 +1,3 @@
 # satyamshreasth-demo2
-This is my second repository
+This is my second git repository
+Author - satyam shreasth
